@@ -1,1 +1,1 @@
-# Pixelcraft
+This project is a modern and responsive web design created using HTML and CSS. It focuses on clean UI, structured layout, and smooth styling, making it a great example of front-end web development. Ideal for learning and practicing design principles.
